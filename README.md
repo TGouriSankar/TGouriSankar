@@ -1,4 +1,4 @@
-![MasterHead](https://www.capgemini.com/au-en/wp-content/uploads/sites/9/2019/06/AI-and-ML.gif?w=640)
+![MasterHead](https://miro.medium.com/max/1400/1*TlbU0F-waQf7_zOfhUNldQ.gif)
 <h1 align="center">Hi 👋, I'm T Gouri Sankar</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
 <img align="right" alt="coding" width="400" src="https://c.tenor.com/BqbIhT4Mb7cAAAAd/programmer-rounded-edges.gif"
