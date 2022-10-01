@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **Machine Learning , AI**
 
-- 📫 How to reach me **gourisankarterlada@gmail.com**
+- 📫 How to reach me **gourisankarterlada@gmail.com , https://www.linkedin.com/in/t-gouri-sankar-7372921b8/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
