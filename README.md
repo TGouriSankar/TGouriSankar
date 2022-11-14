@@ -1,4 +1,4 @@
-![MasterHead](https://miro.medium.com/max/1400/1*TlbU0F-waQf7_zOfhUNldQ.gif)
+![MasterHead]([https://miro.medium.com/max/1400/1*TlbU0F-waQf7_zOfhUNldQ.gif](https://in.pinterest.com/pin/547820742172621903/))
 <h1 align="center">Hi 👋, I'm T Gouri Sankar</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
 <img align="right" alt="coding" width="400" src="https://c.tenor.com/BqbIhT4Mb7cAAAAd/programmer-rounded-edges.gif"
