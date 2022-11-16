@@ -1,3 +1,4 @@
+![MasterHead](https://www.devteam.space/wp-content/uploads/2019/08/AI-Development-lifecycle.jpg)
 <h1 align="center">Hi 👋, I'm T Gouri Sankar</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
 <img align="right" alt="coding" width="400" src="https://c.tenor.com/BqbIhT4Mb7cAAAAd/programmer-rounded-edges.gif"
