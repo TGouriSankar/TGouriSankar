@@ -1,20 +1,22 @@
 ![MasterHead](https://www.devteam.space/wp-content/uploads/2019/08/AI-Development-lifecycle.jpg)
 <h1 align="center">Hi 👋, I'm T Gouri Sankar</h1>
-<h3 align="center">A passionate Data Scientist from India</h3>
+<h3 align="center">A passionate ML Engineer from India</h3>
 <img align="right" alt="coding" width="400" src="https://c.tenor.com/BqbIhT4Mb7cAAAAd/programmer-rounded-edges.gif"
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tgourisankar&label=Profile%20views&color=0e75b6&style=flat" alt="tgourisankar" /> </p>
 
-- 🔭 I’m currently working on **Machine Learning Projects**
+- 🔭 I’m currently engaged in a company project focused on automation and (ML,DL) Models, while also working on personal projects exploring AI technologies.
 
-- 🌱 I’m currently learning **Data Science and Machine Learning**
+- 👨🏻‍💻 my personal projects include demos for users to enjoy and explore.
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at [https://www.kaggle.com/tgourisankar](https://www.kaggle.com/tgourisankar)
+- 🤗 All of my projects are available at :- https://huggingface.co/kasper-boy
 
-- 💬 Ask me about **Machine Learning , AI**
+- 🐋 All the project of Artificanl integental are availabe in docker (download, run & enjoy):- https://hub.docker.com/repositories/10301998
 
-- 📫 How to reach me **gourisankarterlada@gmail.com , https://www.linkedin.com/in/t-gouri-sankar-7372921b8/**
+- 💬 Ask me about **Machine Learning, DL , NLP , GEN AI , Automactions**
+
+- 📫 How to reach me **gourisankarterlada@gmail.com , [https://www.linkedin.com/in/t-gouri-sankar-7372921b8](https://www.linkedin.com/in/t-gouri-sankar-7372921b8/)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
