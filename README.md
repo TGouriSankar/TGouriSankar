@@ -24,7 +24,7 @@
     <img align="center" src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.svg" alt="HuggingFace" height="30" width="40" />
   </a>
   <a href="https://hub.docker.com/u/10301998" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/docker.svg" alt="Docker" height="30" width="40" />
+    <img align="center" src="https://www.svgrepo.com/show/349342/docker.svg" alt="Docker" height="30" width="40" />
   </a>
   <a href="https://kaggle.com/tgourisankar" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="30" width="40" />
@@ -33,7 +33,7 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>
   <a href="mailto:gourisankarterlada@gmail.com" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Gmail" height="30" width="40" />
+    <img align="center" src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_512px.png" alt="Gmail" height="30" width="40" />
   </a>
 </p>
 
