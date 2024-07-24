@@ -23,7 +23,7 @@
   <a href="https://huggingface.co/kasper-boy" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/huggingface.svg" alt="HuggingFace" height="30" width="40" />
   </a>
-  <a href="https://hub.docker.com/repositories/10301998" target="_blank">
+  <a href="https://hub.docker.com/u/10301998" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/docker.svg" alt="Docker" height="30" width="40" />
   </a>
   <a href="https://kaggle.com/tgourisankar" target="_blank">
@@ -36,6 +36,7 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Gmail" height="30" width="40" />
   </a>
 </p>
+
 
 
 <h3 align="left">Languages and Tools:</h3>
